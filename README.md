@@ -62,7 +62,8 @@ The project investigates the behavior of **Informed Trading Intensity (ITI)**—
 ## 📊 Key Results
 
 * **Market Reaction:** Observed pronounced spikes in **absolute abnormal returns** (volatility proxy) exactly at the report date, correlating strongly with abnormal ITI.
-* **Item Heterogeneity:** * **High Intensity:** Items 1.01 (Definitive Agreements) and 2.01/2.02 (Results/Acquisitions) show the strongest pre-filing informed trading.
+* **Item Heterogeneity:**
+	* **High Intensity:** Items 1.01 (Definitive Agreements) and 2.01/2.02 (Results/Acquisitions) show the strongest pre-filing informed trading.
     * **Low Intensity:** Governance-related items (e.g., Item 5.02) show minimal information asymmetry.
 * **Sentiment Impact:** Combining Mistral-based summarization with FinBERT captures economically relevant information more effectively than raw text, leading to a clearer separation of abnormal returns.
 
