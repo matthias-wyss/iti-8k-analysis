@@ -44,6 +44,7 @@ The project investigates the behavior of **Informed Trading Intensity (ITI)**—
 │   └── sec_8k_preprocess.py         # preprocessing for SEC 8-K filings
 ├── outputs                                     # folder for generated plots and results
 ├── pdfs
+│   ├── Report.pdf                    			 # final report paper
 │   ├── internet_appendix.pdf                    # appendix for ITI paper
 │   ├── Semester_project_proposal.pdf            # project proposal
 │   └── The_Journal_of_Finance_2024_BOGOUSSLAVSKY_Informed_Trading_Intensity.pdf # published ITI paper
