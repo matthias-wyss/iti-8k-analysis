@@ -1,0 +1,37 @@
+{
+  "os":  "macOS-15.1.1-arm64-arm-64bit",
+  "python":  "CPython 3.12.8",
+  "startedAt":  "2025-12-04T15:00:31.490349Z",
+  "program":  "/Users/williamjallot/Desktop/semester_project/news-based-asset-pricing/nlp_8k.ipynb",
+  "codePath":  "nlp_8k.ipynb",
+  "codePathLocal":  "nlp_8k.ipynb",
+  "git":  {
+    "remote":  "https://github.com/Wfiles/news-based-asset-pricing",
+    "commit":  "89ab87fd6d128312a7bc2fdf5b0a9bab9b13a937"
+  },
+  "email":  "william.jallot@epfl.ch",
+  "root":  "/Users/williamjallot/Desktop/semester_project/news-based-asset-pricing",
+  "host":  "tsf-476-wpa-0-046.epfl.ch",
+  "executable":  "/opt/homebrew/Caskroom/miniconda/base/envs/asset_pricing/bin/python",
+  "cpu_count":  8,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "494384795648",
+      "used":  "460172271616"
+    }
+  },
+  "memory":  {
+    "total":  "17179869184"
+  },
+  "apple":  {
+    "name":  "Apple M3",
+    "ecpuCores":  4,
+    "pcpuCores":  4,
+    "gpuCores":  10,
+    "memoryGb":  16,
+    "swapTotalBytes":  "15032385536",
+    "ramTotalBytes":  "17179869184"
+  },
+  "writerId":  "692k4v42qa4bz8ylhrhcwbr6lrli67bk"
+}

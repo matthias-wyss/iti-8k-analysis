@@ -1,0 +1,61 @@
+_wandb:
+    value:
+        cli_version: 0.22.2
+        e:
+            fxo0ri4glltu7l08k2cz5e4csfqr7xsz:
+                apple:
+                    ecpuCores: 4
+                    gpuCores: 10
+                    memoryGb: 16
+                    name: Apple M3
+                    pcpuCores: 4
+                    ramTotalBytes: "17179869184"
+                    swapTotalBytes: "13958643712"
+                codePath: news_permco.ipynb
+                codePathLocal: news_permco.ipynb
+                cpu_count: 8
+                cpu_count_logical: 8
+                disk:
+                    /:
+                        total: "494384795648"
+                        used: "393151483904"
+                email: william.jallot@epfl.ch
+                executable: /opt/homebrew/Caskroom/miniconda/base/envs/asset_pricing/bin/python
+                git:
+                    commit: c32e26455da0f6aa95582c107006a4a25d0682e2
+                    remote: https://github.com/Wfiles/news-based-asset-pricing
+                host: tsf-476-wpa-6-244.epfl.ch
+                memory:
+                    total: "17179869184"
+                os: macOS-15.1.1-arm64-arm-64bit
+                program: /Users/williamjallot/Desktop/derivatives/news-based-asset-pricing/news_permco.ipynb
+                python: CPython 3.12.8
+                root: /Users/williamjallot/Desktop/derivatives/news-based-asset-pricing
+                startedAt: "2025-10-08T11:50:55.568319Z"
+                writerId: fxo0ri4glltu7l08k2cz5e4csfqr7xsz
+        m: []
+        python_version: 3.12.8
+        t:
+            "1":
+                - 1
+                - 5
+                - 11
+                - 33
+                - 49
+                - 53
+            "2":
+                - 1
+                - 5
+                - 11
+                - 33
+                - 49
+                - 53
+            "3":
+                - 2
+            "4": 3.12.8
+            "5": 0.22.2
+            "6": 4.56.2
+            "8":
+                - 1
+            "12": 0.22.2
+            "13": darwin-arm64

@@ -1,0 +1,37 @@
+{
+  "os":  "macOS-15.1.1-arm64-arm-64bit",
+  "python":  "CPython 3.12.8",
+  "startedAt":  "2025-10-08T11:50:55.568319Z",
+  "program":  "/Users/williamjallot/Desktop/derivatives/news-based-asset-pricing/news_permco.ipynb",
+  "codePath":  "news_permco.ipynb",
+  "codePathLocal":  "news_permco.ipynb",
+  "git":  {
+    "remote":  "https://github.com/Wfiles/news-based-asset-pricing",
+    "commit":  "c32e26455da0f6aa95582c107006a4a25d0682e2"
+  },
+  "email":  "william.jallot@epfl.ch",
+  "root":  "/Users/williamjallot/Desktop/derivatives/news-based-asset-pricing",
+  "host":  "tsf-476-wpa-6-244.epfl.ch",
+  "executable":  "/opt/homebrew/Caskroom/miniconda/base/envs/asset_pricing/bin/python",
+  "cpu_count":  8,
+  "cpu_count_logical":  8,
+  "disk":  {
+    "/":  {
+      "total":  "494384795648",
+      "used":  "393151483904"
+    }
+  },
+  "memory":  {
+    "total":  "17179869184"
+  },
+  "apple":  {
+    "name":  "Apple M3",
+    "ecpuCores":  4,
+    "pcpuCores":  4,
+    "gpuCores":  10,
+    "memoryGb":  16,
+    "swapTotalBytes":  "13958643712",
+    "ramTotalBytes":  "17179869184"
+  },
+  "writerId":  "fxo0ri4glltu7l08k2cz5e4csfqr7xsz"
+}

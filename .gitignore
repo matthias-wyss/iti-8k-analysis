@@ -1,0 +1,47 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+env/
+venv/
+.venv/
+ENV/
+
+# Environment variables
+.env
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# IDEs / editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Data folder (exclure les fichiers lourds)
+data/
+data/*.csv
+data/*.tsv
+data/*.zip
+
+data/*.h5
+data/preprocessed/submissions_8k.parquet
+
+# MacOS / Windows specific
+.DS_Store
+Thumbs.db
